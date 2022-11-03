@@ -1,2 +1,2 @@
-# pcon
+# Pcon
 Power Controller
